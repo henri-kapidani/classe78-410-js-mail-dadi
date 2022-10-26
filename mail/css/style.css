@@ -1,0 +1,7 @@
+.found, .unfound {
+	display: none;
+}
+
+.visible {
+	display: block;
+}
